@@ -93,13 +93,13 @@ Data Basic Examples
 
 Lưu cả tag mới của user nhập vào.
 
-<img src="https://im4.ezgif.com/tmp/ezgif-4-e0d5c140c94c.gif"/>
+<img src="./assets/input-tags-stackoverflow.gif"/>
 
 ### 2. Thêm tags khi post mới ở Medium
 
 Khi nhập một tag hệ thống sẽ list ra cái có sẵn, bắt buộc user lấy tag có sẵn, tag không có trong hệ thống sẽ không thêm vào được.
 
-<img src="https://im4.ezgif.com/tmp/ezgif-4-b638e106a07e.gif"/>
+<img src="./assets/input-tags-medium.gif"/>
 
 ## Refer
 
