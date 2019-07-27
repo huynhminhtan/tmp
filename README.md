@@ -36,7 +36,8 @@ react-native-navigation react-native-navigation-v2.
   - Count số lượng bài viết được gán tag.
   - Sort tags theo thời gian, mức độ phổ biến, theo tên alphabet..
   - Tìm kiếm tags theo tên.
-
+  - Lưu thời gian và tên của người update tags cuối cùng.
+  
 - Notes:
   - Từ đồng âm (từ giống nhau nhưng khác nghĩa) như tag `orange` nó là `fruit` hay `color`
   - Từ đồng nghĩa (nhiều tag cùng khái niệm) như tag `Linux kernel` có thể tạo từ tag liên quan là `Linux`, `kernel`, `Penguin`, `software`
