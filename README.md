@@ -86,7 +86,7 @@ Khi nhập một tag hệ thống sẽ list ra cái có sẵn, bắt buộc user
 
 ## Ques
 
-- Khi có nhiều tags thì phân loại tags này theo chủ đề bằng cách nào? ví dụ: react (javascript-lib/ programming) hay react (feeling)
+- Khi có nhiều tags thì phân loại tags này theo chủ đề bằng cách nào (subtitle)? ví dụ: react (javascript-lib/ programming) hay react (feeling) 
 - Khi tag đã cũ không cho hiển thị nữa (dùng cờ đánh dấu chứ không xóa)
 
 ## Refers
