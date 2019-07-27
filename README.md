@@ -3,6 +3,7 @@
 Xây dựng hệ thống tags với MongoDB và tìm hiểu những trigger các rule liên quan.
 
 * [Tags](#tags)
+* [Ques](#ques)
 * [Sign](#sign)
 * [Design DB](#design-db)
 * [Demo](#demo)
@@ -10,6 +11,11 @@ Xây dựng hệ thống tags với MongoDB và tìm hiểu những trigger các
 ## Tags ?
 
 Nhóm các bài viết có nội dung tương tự, không tổ chức thành cấu trúc, tập trung vào phân loại nội dung thay vì chủ đề.
+
+## Ques
+
+- Khi có nhiều tags thì phân loại tags này theo chủ đề bằng cách nào (subtitle)? ví dụ: react (javascript-lib/ programming) hay react (feeling) 
+- Khi tag đã cũ không cho hiển thị nữa (dùng cờ đánh dấu chứ không xóa)
 
 ## Signs
 
@@ -83,11 +89,6 @@ Lưu cả tag mới của user nhập vào.
 Khi nhập một tag hệ thống sẽ list ra cái có sẵn, bắt buộc user lấy tag có sẵn, tag không có trong hệ thống sẽ không thêm vào được.
 
 <img src="./assets/input-tags-medium.gif"/>
-
-## Ques
-
-- Khi có nhiều tags thì phân loại tags này theo chủ đề bằng cách nào (subtitle)? ví dụ: react (javascript-lib/ programming) hay react (feeling) 
-- Khi tag đã cũ không cho hiển thị nữa (dùng cờ đánh dấu chứ không xóa)
 
 ## Refers
 
