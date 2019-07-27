@@ -43,10 +43,10 @@ react-native-navigation react-native-navigation-v2.
   - Số ít hay số nhiều như tag là `tag` hay là `tags` 
   - Một số tags thừa không sử dụng trong hệ thống: gear, custom, create, gifts,  presents, gift idea, products, merchandise, personalize, personalized, personalizable, customize, customized, customizable, custom made, customise, customisable, customised, made to order,  make your own, personal, personalised, personalise, personalisable.
   - Chọn những từ đại diện chung hơn là đi vào chi tiết, thay vì “dresses”, “summer dresses”, và “sleeveless dresses” thì bộ tag tốt nhất sẽ là “dresses”, có thể là “sleeveless” hoặc “summer” -> từ độc lập có nghĩa.
-  - Thêm mô tả cho tag cho đủ nghĩa "programmable coffee makers" thay vì "programmable", "coffe" điều này sẽ gây nhầm lẫn về nghĩa cũng như quán coffe, thức uống coffe, ngôn ngữ lập trình coffee scirpt -> ngữ cảnh này cần bổ sung thêm nghĩa cho tag.
+  - Thêm mô tả cho tag để đủ nghĩa "programmable coffee makers" thay vì "programmable" hoặc "coffe" điều này sẽ gây nhầm lẫn về nghĩa, như quán coffee, thức uống coffee hay ngôn ngữ lập trình coffee (script) -> ngữ cảnh này cần bổ sung thêm nghĩa cho tag.
   - Cần phải kiểm duyệt tag mới của user và admin phải search từ hệ thống trước khi đưa vào bộ tags.
   - Không tạo tag chỉ dành cho một post.
-  - Không tạo tag giống với category.
+  - Xem xét khi tạo tag giống với category, nhằm thể nâng cao tính hữu dụng của tags chỉ tập trung vào nội dung cụ thể trong doc.
 
 ## Design DB
 
